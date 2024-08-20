@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
-    "start":"node index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "javascript",
@@ -15,6 +15,7 @@
   "author": "Areeba Imran",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.4"
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
   }
 }
